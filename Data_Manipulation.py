@@ -25,3 +25,5 @@ data_per_min = data.groupby(['PLAYER', 'PLAYER_ID', 'Year'])[total_cols].sum().r
 
 print(data_per_min)
 
+##NOT FINISHED
+
